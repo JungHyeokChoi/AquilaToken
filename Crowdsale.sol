@@ -356,7 +356,7 @@ contract CrowdSale is Ownable, Whitelisted, Bluelisted {
                 break;
             } else if(releseHeldTime <= block.timestamp){
                 count++;
-                releseHeldTime = releseHeldTime.add(30 dats);
+                releseHeldTime = releseHeldTime.add(30 days);
             }
             round++;
         }
