@@ -1,0 +1,68 @@
+Request Type
+
+Choose one : New / First Time Token Update
+Comment / Message : none
+
+Basic Information
+
+Token Contract Address :　0xCB1d556D25848dd0F3216f09e7f2570F80eE2a65
+Requester Name :　Hyun Chun　Koh
+Requester Eamil Address :　fending45@hanmail.net
+Official Web Site : http://www.aquilapay.com/
+Official Project Eamil Address : aquilacoin2020@gmail.com
+Link to downlad a 256 x 256 png icon logo :　별도 첨부
+Project Sector : E-commerce / Payment
+Project Description : 
+
+The Aquila Coin project is a blockchain technology that allows you to track the origin of raw materials and the date of production of the product, and check the efficacy anytime, anywhere. 
+Aquila Coin pursues a'ubiquitous' payment system that exists anytime, anywhere.
+
+
+Social Profiles
+
+Whitepaper : https://c006873a-4549-4209-a7be-dc633a573441.filesusr.com/ugd/a6fac2_a7d8a340321c4959b39d26ff807bdfc2.pdf
+Telegram : https://t.me/aquilacoin
+KakaoTalk : https://open.kakao.com/o/g90oYKIc
+Facebook : https://www.facebook.com/aquila.aquila.58511276
+Twitter : https://twitter.com/Aquila18053421
+
+Price Data
+
+CoinMarketCap Ticker :　none
+CoinGecko Ticker : none
+
+Public Sale (ICO/IEO) Details (if applicable)
+
+Token Sale Address :　0x6c307317910a7946E69570EBBf50C30C63791763
+Token Sale Start Date : 2020-12-09
+Token Sale End Date : 2020-12-28
+Token Private (in USD and/or ETH) : 0.1 USD (20% Bonus)
+Public Sale Allocation : 50,000,000 AQU
+Public Sale Vesting Period : 1 month
+IEO Launchpad : none
+County : Singapore
+Soft Cap / Hard Cap (if any) : 3,000,000 USD / 5,000,000 USD
+Amount Raised : ICO in progress
+Token Distribution Data : Reference in white paper
+
+
+Private Sale Details (if applicable)
+
+Private Sale Token Price (in USD and/or ETH) : none
+Private Sale Allocatino : none
+Private Sale Vesting Period : none
+Seed Sale Token Price (in USD and/or ETH) : none
+Seed Sale Allocation : none
+Seed Sale Vesting Period : none
+
+
+Burn Events (if applicable) (없음)
+
+Announcements Link
+ - Tx Hash　: none
+
+Announcements Link
+ - Tx Hash　: none
+
+Announcements Link
+ - Tx Hash　: none
